@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ebookfrenzy.applinking",
+    "sha256_cert_fingerprints":
+    ["E1:2E:F0:6D:EA:DB:59:FB:92:79:E1:F8:E7:5D:D6:1F:60:1A:B8:0F:06:60:BF:44:64:95:C7:DF:30:CE:CA:F2"]
+  }
+}]
